@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="car_plate_number">Car Plate Number</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="suit_no_of_host">Suit No. of Host</string>
+    <string name="parking_location">Parking location</string>
+    <string name="use_current_location">Use Current Location</string>
+    <string name="create_parking">Create Parking</string>
+    <string name="hour_1">1</string>
+    <string name="hour_4">4</string>
+    <string name="hour_12">12</string>
+    <string name="hour_24">24</string>
+    <string name="details">Details</string>
+    <string name="name">Name</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

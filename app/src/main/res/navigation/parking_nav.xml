@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parking_nav"
+    app:startDestination="@id/addParkingFragment">
+    <fragment
+        android:id="@+id/addParkingFragment"
+        android:name="com.wx.parking.fragments.AddParkingFragment"
+        android:label="Add Parking"
+        tools:layout="@layout/fragment_add_parking" />
+    <fragment
+        android:id="@+id/viewParkingFragment"
+        android:name="com.wx.parking.fragments.ViewParkingFragment"
+        android:label="View Parking"
+        tools:layout="@layout/fragment_view_parking" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.wx.parking.fragments.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>
